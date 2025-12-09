@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: EX5600-7
+  m_EditorClassIdentifier: 
+  m_GroupName: EX5600-7
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9a14fb1f5a2c70b41ac82d599e46dec7
+  m_SerializeEntries:
+  - m_GUID: 22177b82e08d3dc4faa7a436c7b30786
+    m_Address: ex5600-7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3852b8ef7da46c74584c285031046aa3
+    m_Address: Assets/POC/Designs/Model/ex5600-7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 29c850351161fcf448250eebdb438437, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 68253ec39d9121442add6f22467b55b0, type: 2}
+    - {fileID: 11400000, guid: 770cd172ade67d04d86c5564f8d30fd3, type: 2}

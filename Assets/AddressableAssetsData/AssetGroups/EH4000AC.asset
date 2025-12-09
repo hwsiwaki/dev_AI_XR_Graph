@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: EH4000AC
+  m_EditorClassIdentifier: 
+  m_GroupName: EH4000AC
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 04a8ba251b2ef7942a074a92f078b96b
+  m_SerializeEntries:
+  - m_GUID: 18ee8c6b1c30ff04ea61c9ee396c331d
+    m_Address: Assets/POC/Designs/Model/eh4000AC-3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3466ff6077f7e524b9771f7910b66448
+    m_Address: eh4000ac
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50ba650791a2ef74ca28c65f35c0078e
+    m_Address: eh4000ac not mip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bc917b019e943b4e99f2c92f3e17c18
+    m_Address: eh4000ac simple
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 29c850351161fcf448250eebdb438437, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3e1b8d35373a332459df550a8b0dc9b4, type: 2}
+    - {fileID: 11400000, guid: 207e59dff7fa9e44a87a014a8241d90a, type: 2}
