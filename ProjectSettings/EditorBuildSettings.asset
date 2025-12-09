@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/POC/Scenes/MQ3MRTK3Demo.unity
+    guid: ee7751a9a8eb0644b9dbe78f70ba27fa
+  - enabled: 1
+    path: Assets/POC/Scenes/MQ3MRTK3DemoAI.unity
+    guid: 809904acf3524fa44886552052cae35f
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 31f0465a73c82ce459b7bc228a8cdbc2, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 000a9ef001af81549953580ec98158f0, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bd83d68d146bbe448ae759f5971b57a7, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d261b1748573ec640894eba0405e929a, type: 2}
