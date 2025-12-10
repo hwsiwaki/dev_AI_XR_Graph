@@ -1,0 +1,39 @@
+System.Buffers
+01.11.2022 - Version 4.5.1 - March 24, 2020
+https://www.nuget.org/packages/System.Buffers
+
+System.Diagnostics.DiagnosticSource
+12.03.2024 - Version 8.0.0 - November 14, 2023
+https://www.nuget.org/packages/System.Diagnostics.DiagnosticSource
+
+System.IO.Pipelines
+12.03.2024 - Version 8.0.0 - November 14, 2023
+https://www.nuget.org/packages/System.IO.Pipelines
+
+System.Memory
+01.11.2022 - Version 4.5.5 - May 26, 2022
+https://www.nuget.org/packages/System.Memory
+
+System.Numerics.Vectors
+01.11.2022 - Version 4.5.0 - May 29, 2018
+https://www.nuget.org/packages/System.Numerics.Vectors
+
+System.Runtime.CompilerServices.Unsafe
+01.11.2022 - Version 6.0.0 - November 08, 2021
+https://www.nuget.org/packages/System.Runtime.CompilerServices.Unsafe
+
+System.Text.Encodings.Web
+12.03.2024 - Version 8.0.0 - November 14, 2023
+https://www.nuget.org/packages/System.Text.Encodings.Web
+
+System.Text.Json
+12.03.2024 - Version 8.0.3 - March 12, 2024
+https://www.nuget.org/packages/System.Text.Json
+
+System.Threading.Channels
+12.03.2024 - Version 8.0.0 - November 14, 2023
+https://www.nuget.org/packages/System.Threading.Channels
+
+System.Threading.Tasks.Extensions
+01.11.2022 - Version 4.5.4 - March 24, 2020
+https://www.nuget.org/packages/System.Threading.Tasks.Extensions
