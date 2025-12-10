@@ -1,0 +1,64 @@
+Microsoft.AspNetCore.Connections.Abstractions
+12.03.2024 - Version 8.0.3 - March 12, 2024
+https://www.nuget.org/packages/Microsoft.AspNetCore.Connections.Abstractions
+
+Microsoft.AspNetCore.Http.Connections.Client
+12.03.2024 - Version 8.0.3 - March 12, 2024
+https://www.nuget.org/packages/Microsoft.AspNetCore.Http.Connections.Client
+
+Microsoft.AspNetCore.Http.Connections.Common
+12.03.2024 - Version 8.0.3 - March 12, 2024
+https://www.nuget.org/packages/Microsoft.AspNetCore.Http.Connections.Common
+
+Microsoft.AspNetCore.SignalR.Client.Core
+12.03.2024 - Version 8.0.3 - March 12, 2024
+https://www.nuget.org/packages/Microsoft.AspNetCore.SignalR.Client.Core
+
+Microsoft.AspNetCore.SignalR.Client
+12.03.2024 - Version 8.0.3 - March 12, 2024
+https://www.nuget.org/packages/Microsoft.AspNetCore.SignalR.Client
+
+Microsoft.AspNetCore.SignalR.Common
+12.03.2024 - Version 8.0.3 - March 12, 2024
+https://www.nuget.org/packages/Microsoft.AspNetCore.SignalR.Common
+
+Microsoft.AspNetCore.SignalR.Protocols.Json
+12.03.2024 - Version 8.0.3 - March 12, 2024
+https://www.nuget.org/packages/Microsoft.AspNetCore.SignalR.Protocols.Json
+
+Microsoft.Bcl.AsyncInterfaces
+12.03.2024 - Version 8.0.0 - November 14, 2023
+https://www.nuget.org/packages/Microsoft.Bcl.AsyncInterfaces
+
+Microsoft.Bcl.TimeProvider 
+12.03.2024 - Version 8.0.1 - January 09, 2024
+https://www.nuget.org/packages/Microsoft.Bcl.TimeProvider
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+12.03.2024 - Version 8.0.1 - March 12, 2024
+https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection.Abstractions
+
+Microsoft.Extensions.DependencyInjection
+12.03.2024 - Version 8.0.0 - November 14, 2023
+https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection
+
+Microsoft.Extensions.Features
+12.03.2024 - Version 8.0.3 - March 12, 20024
+https://www.nuget.org/packages/Microsoft.Extensions.Features
+
+Microsoft.Extensions.Logging.Abstractions
+12.03.2024 - Version 8.0.1 - March 12, 2024
+https://www.nuget.org/packages/Microsoft.Extensions.Logging.Abstractions
+
+Microsoft.Extensions.Logging
+12.03.2024 - Version 8.0.0 - November 14, 2023
+https://www.nuget.org/packages/Microsoft.Extensions.Logging
+
+Microsoft.Extensions.Options
+12.03.2024 - Version 8.0.2 - February 13, 2024
+https://www.nuget.org/packages/Microsoft.Extensions.Options
+
+Microsoft.Extensions.Primitives
+12.03.2024 - Version 8.0.0 - November 14, 2023
+https://www.nuget.org/packages/Microsoft.Extensions.Primitives
+
