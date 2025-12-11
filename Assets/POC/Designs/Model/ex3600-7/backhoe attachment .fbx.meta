@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: 911f11781794ffd4381446eaaaef797b
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARM ANGLE SENSOR (BACKHOE)
+    second: {fileID: 2100000, guid: cdc771acad6028541a279c7a7aea5fae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARM ASS'Y (BACKHOE)
+    second: {fileID: 2100000, guid: d0fe0a2ec14e8954cb72a8b5f2f2068d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BOOM 9.6m (BACKHOE)
+    second: {fileID: 2100000, guid: 62dabe5764835314bbbf7bd23b5be681, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BOOM ANGLE SENSOR (BACKHOE)
+    second: {fileID: 2100000, guid: 8f5034a4c6629b3479d54ef6d92eb5b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BOOM ASS'Y (BACKHOE)
+    second: {fileID: 2100000, guid: 63c9f9cf29137794ab3f9fe8d2b91f59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BUCKET 22m3 (BACKHOE)
+    second: {fileID: 2100000, guid: ce31f3e5b7a3eed468dc55f1eabd4e92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BUCKET ASS'Y (ARM)(BACKHOE)
+    second: {fileID: 2100000, guid: 740af0784a1c12543a3dbd0f458df1a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ELECTRIC PARTS (ARM)(BACKHOE)
+    second: {fileID: 2100000, guid: 92d009ab68d13d54290376d844e23a91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ELECTRIC PARTS (BACKHOE)
+    second: {fileID: 2100000, guid: ca0cf9bd0911b3e4bbec4c5d7bc92ddb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FRONT PIPING (BACKHOE)
+    second: {fileID: 2100000, guid: d5f65f1354b99dd40b22f89c2e171941, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FRONT PIPING (BACKHOE)(1-1)
+    second: {fileID: 2100000, guid: 30553714c32e30641a1ab9b1c713cf4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FRONT PIPING (BACKHOE)(1-2)
+    second: {fileID: 2100000, guid: 823562bcf9cc5e845ae211c967e2678a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JOINT GUARD
+    second: {fileID: 2100000, guid: ae8335ef035c0ce47bd4a5d6715cdc71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LUBRICATE PIPING (ARM)(BACKHOE)(1-1)
+    second: {fileID: 2100000, guid: 434e42f9925cfc045848030bb4a6657e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LUBRICATE PIPING (ARM)(BACKHOE)(1-2)
+    second: {fileID: 2100000, guid: 0fd5ad07ca02c584480bf325f52f439b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LUBRICATE PIPING (BACKHOE)
+    second: {fileID: 2100000, guid: 6fc649b44dc9c1f458b7b41ab87281a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIPE ASS'Y (ARM)(BACKHOE)
+    second: {fileID: 2100000, guid: b4aff4e9ef66ac1419b9d638daf3fd61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: THRUST PLATE
+    second: {fileID: 2100000, guid: 3b91b9499685f8a47a881eda51e2b3d5, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ARM_ASS'Y_(BACKHOE)_Base_color
+    second: {fileID: 2800000, guid: aba3d2520cf1fb7429f57bfedd535292, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ARM_ASS'Y_(BACKHOE)_Metallic
+    second: {fileID: 2800000, guid: 4b1791f6a18b99c4a91247e5dc26fbb7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ARM_ASS'Y_(BACKHOE)_Normal_OpenGL
+    second: {fileID: 2800000, guid: 28c7d5072f7b85e4fb396d3a92072d70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ARM_ASS'Y_(BACKHOE)_Roughness
+    second: {fileID: 2800000, guid: 5500e047337e4a04c93e9ced6076b4a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BOOM_9.6m_(BACKHOE)_Base_color
+    second: {fileID: 2800000, guid: 0aabe8529ea113b4d9d85b20b6440fc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BOOM_9.6m_(BACKHOE)_Metallic
+    second: {fileID: 2800000, guid: e38b9abff05694142ab979c3ce6cb593, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BOOM_9.6m_(BACKHOE)_Normal_OpenGL
+    second: {fileID: 2800000, guid: 898d2abcdf5b9734b84db4d0fe848447, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BOOM_9.6m_(BACKHOE)_Roughness
+    second: {fileID: 2800000, guid: f6993205ecf95e54b85c7ee9b31d23b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BOOM_ANGLE_SENSOR_(BACKHOE)_Base_color
+    second: {fileID: 2800000, guid: 78bbfd73e7725704f9b114db9d80fa29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BOOM_ANGLE_SENSOR_(BACKHOE)_Metallic
+    second: {fileID: 2800000, guid: cc69c45e737713b4a99fdebfedde97e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BOOM_ANGLE_SENSOR_(BACKHOE)_Normal_OpenGL
+    second: {fileID: 2800000, guid: 46a3a16333226cd42b1e422939faddec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BOOM_ANGLE_SENSOR_(BACKHOE)_Roughness
+    second: {fileID: 2800000, guid: 77957606597789e4a94f87d4e7eaf065, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BOOM_ASS'Y_(BACKHOE)_Base_color
+    second: {fileID: 2800000, guid: c74ff6f2d8c6e8f4b97cadbe863b0bb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BOOM_ASS'Y_(BACKHOE)_Metallic
+    second: {fileID: 2800000, guid: 1b3f8d48c948d23448150b7ba469d1e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BOOM_ASS'Y_(BACKHOE)_Normal_OpenGL
+    second: {fileID: 2800000, guid: bf3d81346e3650641909447954fa2a97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BOOM_ASS'Y_(BACKHOE)_Roughness
+    second: {fileID: 2800000, guid: 3428508cab944b44b842686ba8b2d9ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BUCKET_22m3_(BACKHOE)_Base_color
+    second: {fileID: 2800000, guid: ce9900c2342c6604aa592ed2021edf68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BUCKET_22m3_(BACKHOE)_Metallic
+    second: {fileID: 2800000, guid: 31d448fb106999a4aaa7f1a7c38414b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BUCKET_22m3_(BACKHOE)_Normal_OpenGL
+    second: {fileID: 2800000, guid: 2e1a34bf4f948194ba37b2689e9fe7ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BUCKET_22m3_(BACKHOE)_Roughness
+    second: {fileID: 2800000, guid: 0b237491a32b8a441b5aa6222e364aac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BUCKET_ASS'Y_(ARM)(BACKHOE)_Base_color
+    second: {fileID: 2800000, guid: 0474a82976df3bf4392b895669dcefb7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BUCKET_ASS'Y_(ARM)(BACKHOE)_Metallic
+    second: {fileID: 2800000, guid: d2deaa6ce0357db44bdec4bb476aab9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BUCKET_ASS'Y_(ARM)(BACKHOE)_Normal_OpenGL
+    second: {fileID: 2800000, guid: 2b8888211faf3454eac2a2513bfe0ae3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BUCKET_ASS'Y_(ARM)(BACKHOE)_Roughness
+    second: {fileID: 2800000, guid: 3082de5e5014cc34bafb2bf87c7d3dc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ELECTRIC_PARTS_(ARM)(BACKHOE)_Base_color
+    second: {fileID: 2800000, guid: 4269f81d9187dd344b54b362c365fcae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ELECTRIC_PARTS_(ARM)(BACKHOE)_Metallic
+    second: {fileID: 2800000, guid: 6e73212f94650b24b88bae0164cf2396, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ELECTRIC_PARTS_(ARM)(BACKHOE)_Normal_OpenGL
+    second: {fileID: 2800000, guid: bf20b0fb596c0d64fb37ec134de9f089, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ELECTRIC_PARTS_(ARM)(BACKHOE)_Roughness
+    second: {fileID: 2800000, guid: 3e461729788c34740b180c9e19839903, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ELECTRIC_PARTS_(BACKHOE)_Base_color
+    second: {fileID: 2800000, guid: d965ed38de7198048800c69ef92b2dfb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ELECTRIC_PARTS_(BACKHOE)_Metallic
+    second: {fileID: 2800000, guid: 119cc9ba9939fac439cde32726d85e23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ELECTRIC_PARTS_(BACKHOE)_Normal_OpenGL
+    second: {fileID: 2800000, guid: 5eee2888fefbea6418cfe4e54da81ef9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ELECTRIC_PARTS_(BACKHOE)_Roughness
+    second: {fileID: 2800000, guid: 91bc3d1e69f635544b472b1e3660bddc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FRONT_PIPING_(BACKHOE)(1-1)_Base_color
+    second: {fileID: 2800000, guid: 6209729a73a57194cba853df03136d33, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FRONT_PIPING_(BACKHOE)(1-1)_Metallic
+    second: {fileID: 2800000, guid: 5a203a4ec5953e34db41cd0b57ac7011, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FRONT_PIPING_(BACKHOE)(1-1)_Normal_OpenGL
+    second: {fileID: 2800000, guid: 460bee9527856a9418069d7bf92b09dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FRONT_PIPING_(BACKHOE)(1-1)_Roughness
+    second: {fileID: 2800000, guid: 443a088150de2e341a9236f5ddf78080, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FRONT_PIPING_(BACKHOE)(1-2)_Base_color
+    second: {fileID: 2800000, guid: 81c7e39c1b4b4254681aa2b224bb82f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FRONT_PIPING_(BACKHOE)(1-2)_Metallic
+    second: {fileID: 2800000, guid: 22b6f9ca29953df4c900f3faa8f93ddf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FRONT_PIPING_(BACKHOE)(1-2)_Normal_OpenGL
+    second: {fileID: 2800000, guid: 46cbf734bc5d4744d89dc55678a82e2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FRONT_PIPING_(BACKHOE)(1-2)_Roughness
+    second: {fileID: 2800000, guid: 29a602c1728850940a30862b2a11e3b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FRONT_PIPING_(BACKHOE)_Base_color
+    second: {fileID: 2800000, guid: 5af7e2805209d1e43868bcd7540337d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FRONT_PIPING_(BACKHOE)_Metallic
+    second: {fileID: 2800000, guid: a7dab3092d52d4d4c963351787bb15bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FRONT_PIPING_(BACKHOE)_Normal_OpenGL
+    second: {fileID: 2800000, guid: da7c0537b60522e4e91625d580604701, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FRONT_PIPING_(BACKHOE)_Roughness
+    second: {fileID: 2800000, guid: 87408b328214df34da86a22d605a219c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: JOINT_GUARD_Base_color
+    second: {fileID: 2800000, guid: 645018ccdc3495c4e9146638d3eaa2e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: JOINT_GUARD_Metallic
+    second: {fileID: 2800000, guid: f412911697548ac469dc2df932065873, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: JOINT_GUARD_Normal_OpenGL
+    second: {fileID: 2800000, guid: 962bf709cad5b1f47a5d8f2b80826b1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: JOINT_GUARD_Roughness
+    second: {fileID: 2800000, guid: d63077e5d8c52b649ad90527b017a069, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LUBRICATE_PIPING_(ARM)(BACKHOE)(1-1)_Base_color
+    second: {fileID: 2800000, guid: 3bf5c73f48e820040a97dff3b587bebf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LUBRICATE_PIPING_(ARM)(BACKHOE)(1-1)_Metallic
+    second: {fileID: 2800000, guid: 083ee3171ac6e5f4ba7483bfb8c5785a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LUBRICATE_PIPING_(ARM)(BACKHOE)(1-1)_Normal_OpenGL
+    second: {fileID: 2800000, guid: 871376b3b0c525840a59667f54784ee8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LUBRICATE_PIPING_(ARM)(BACKHOE)(1-1)_Roughness
+    second: {fileID: 2800000, guid: af29764e9dbad0145b5925c8184a2483, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LUBRICATE_PIPING_(ARM)(BACKHOE)(1-2)_Base_color
+    second: {fileID: 2800000, guid: 9b2d3ef375a43394faf640b4e36dcdbb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LUBRICATE_PIPING_(ARM)(BACKHOE)(1-2)_Metallic
+    second: {fileID: 2800000, guid: 7776e31c9d508f549ae6c1d9e3bac933, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LUBRICATE_PIPING_(ARM)(BACKHOE)(1-2)_Normal_OpenGL
+    second: {fileID: 2800000, guid: e3d62bc600a0370479edd88f285565f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LUBRICATE_PIPING_(ARM)(BACKHOE)(1-2)_Roughness
+    second: {fileID: 2800000, guid: 818a34b2526ae52429e014654a754c51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LUBRICATE_PIPING_(BACKHOE)_Base_color
+    second: {fileID: 2800000, guid: 613d8eb566410f34b8dc7a77b34dc875, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LUBRICATE_PIPING_(BACKHOE)_Metallic
+    second: {fileID: 2800000, guid: 9ad3bfa681b60334fb4acc82e241413d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LUBRICATE_PIPING_(BACKHOE)_Normal_OpenGL
+    second: {fileID: 2800000, guid: 94a99cebe190ae242ab6065a741412c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LUBRICATE_PIPING_(BACKHOE)_Roughness
+    second: {fileID: 2800000, guid: 9f60e8a459c099148b5a373ee22ecd7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PIPE_ASS'Y_(ARM)(BACKHOE)_Base_color
+    second: {fileID: 2800000, guid: 203ed667d56e6054cb47d04f20212fcf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PIPE_ASS'Y_(ARM)(BACKHOE)_Metallic
+    second: {fileID: 2800000, guid: 0a1215a2e5cfd6343af92083927f287e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PIPE_ASS'Y_(ARM)(BACKHOE)_Normal_OpenGL
+    second: {fileID: 2800000, guid: 2ab3bcc7981f1b643ab073ea5d027ebf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PIPE_ASS'Y_(ARM)(BACKHOE)_Roughness
+    second: {fileID: 2800000, guid: 99b700b53b7270a4388ddbd1c726f3b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: THRUST_PLATE_Base_color
+    second: {fileID: 2800000, guid: c67fcf68e8dbbf443b402ac7dd0f7c39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: THRUST_PLATE_Metallic
+    second: {fileID: 2800000, guid: cec1415584003c74b9fe64ff099a8ff4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: THRUST_PLATE_Normal_OpenGL
+    second: {fileID: 2800000, guid: e3b8ddf8ada04004a84ac5ce4c1c407c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: THRUST_PLATE_Roughness
+    second: {fileID: 2800000, guid: 94bec9c3fb56ef247b8268c7cdfa4a42, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
